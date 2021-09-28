@@ -18,8 +18,8 @@ Monacaを用いて作ったアプリとmobile backendを連携して、ログイ
 
 # 動作環境
 
-Cordova 9.0, Javascript SDK ver 3.0.0導入済み
-Monacaデバッグアプリ
+* Cordova 9.0, Javascript SDK ver 3.0.0導入済み
+* Monacaデバッグアプリ
 
 ## Demo
 
